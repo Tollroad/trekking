@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/trekking/static/css/main.1381f8d3.css",
+    "main.js": "/trekking/static/js/main.d700db30.js",
+    "static/js/787.aab8bd84.chunk.js": "/trekking/static/js/787.aab8bd84.chunk.js",
+    "static/media/Home1.jpg": "/trekking/static/media/Home1.79bf9547099b41d0864b.jpg",
+    "static/media/Home2.jpg": "/trekking/static/media/Home2.6fa49a06a21eb5552bea.jpg",
+    "static/media/Tile2.jpg": "/trekking/static/media/Tile2.c48134eba271ced307e1.jpg",
+    "static/media/AboutLast.jpg": "/trekking/static/media/AboutLast.72116cf3d8a26fde0ab1.jpg",
+    "static/media/Contact.jpg": "/trekking/static/media/Contact.5344478819eb092a8b28.jpg",
+    "static/media/AboutMain.jpg": "/trekking/static/media/AboutMain.45480ab26249e689415e.jpg",
+    "static/media/Aboutlogo.jpg": "/trekking/static/media/Aboutlogo.f53abfac7d395e55903d.jpg",
+    "static/media/Donate.jpg": "/trekking/static/media/Donate.ca982216c8f38e9fd197.jpg",
+    "static/media/HomeMain.jpg": "/trekking/static/media/HomeMain.29fe22756bc37c3af227.jpg",
+    "static/media/Tile3.jpg": "/trekking/static/media/Tile3.1f6d1de436de8dde4781.jpg",
+    "static/media/HomeLast.jpg": "/trekking/static/media/HomeLast.4a3f0f94c4bec64e0c19.jpg",
+    "static/media/HomeMain2.jpg": "/trekking/static/media/HomeMain2.dfc759c4f0971140b8ee.jpg",
+    "static/media/Tile1.jpg": "/trekking/static/media/Tile1.ad34834c09d223fb3dfd.jpg",
+    "static/media/Logo.svg": "/trekking/static/media/Logo.8df5e5d1abbe0152ebfb72b285caf404.svg",
+    "static/media/Ig.svg": "/trekking/static/media/Ig.3fe2e5d72ce9ef8639c9b2aad4648af5.svg",
+    "static/media/AboutCard.svg": "/trekking/static/media/AboutCard.c11debbff7d49c852951e19fe6d90c04.svg",
+    "static/media/Twitter.svg": "/trekking/static/media/Twitter.59304809b161d20ece4a7990431aef8b.svg",
+    "index.html": "/trekking/index.html",
+    "static/media/Facebook.svg": "/trekking/static/media/Facebook.b964b15e7e8b20376eda88bf2e008627.svg",
+    "static/media/cart.svg": "/trekking/static/media/cart.50e0aa38e7918f30e4306f2cbb72af38.svg",
+    "static/media/Chat.svg": "/trekking/static/media/Chat.4f5c09808c01be382398c21990cb5587.svg",
+    "main.1381f8d3.css.map": "/trekking/static/css/main.1381f8d3.css.map",
+    "main.d700db30.js.map": "/trekking/static/js/main.d700db30.js.map",
+    "787.aab8bd84.chunk.js.map": "/trekking/static/js/787.aab8bd84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1381f8d3.css",
+    "static/js/main.d700db30.js"
+  ]
+}
