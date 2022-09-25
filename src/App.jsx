@@ -12,16 +12,16 @@ function App() {
   return (
     <>
       <Navbar />
-      <HashRouter>
+      {/* <HashRouter> */}
 
-      {/* <Routes> */}
+      <Routes>
       <Route exact path="/" element={<Home />} />
       <Route exact path="/About" element={<About/>} />
       <Route exact path="/Shop1" element={<Shop1/>} />
       <Route exact path="/Donate" element={<Donate/>} />
       <Route exact path="/Contact" element={<Contact/>} />
-      {/* </Routes> */}
-      </HashRouter>
+      </Routes>
+      {/* </HashRouter> */}
     </>
   );
 }
