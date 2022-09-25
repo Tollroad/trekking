@@ -1,5 +1,5 @@
 import React from "react";
-import Home2 from "../images/Home2.jpg";
+// import Home2 from "../images/Home2.jpg";
 import Card from "./Card";
 import Tile1 from '../images/Tile1.jpg'
 import Tile2 from '../images/Tile2.jpg'

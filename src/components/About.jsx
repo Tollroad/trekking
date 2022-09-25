@@ -43,10 +43,10 @@ function About() {
       </div>
       <div className="w-full h-fit my-6 text-[#222]">
         <div className="md:w-[900px] h-fit flex md:flex-row flex-col mx-auto ">
-          <About_card />
-          <About_card />
-          <About_card />
-          <About_card />
+          <About_card/>
+          <About_card/>
+          <About_card/>
+          <About_card/>
         </div>
       </div>
       <div className="w-full h-fit md:mt-24 text-white">
