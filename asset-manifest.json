@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/trekking/static/css/main.86853523.css",
-    "main.js": "/trekking/static/js/main.67ac263b.js",
+    "main.css": "/trekking/static/css/main.79f508d0.css",
+    "main.js": "/trekking/static/js/main.64e666d5.js",
     "static/js/787.aab8bd84.chunk.js": "/trekking/static/js/787.aab8bd84.chunk.js",
     "static/media/Home1.jpg": "/trekking/static/media/Home1.79bf9547099b41d0864b.jpg",
     "static/media/Tile2.jpg": "/trekking/static/media/Tile2.c48134eba271ced307e1.jpg",
@@ -22,12 +22,12 @@
     "index.html": "/trekking/index.html",
     "static/media/Facebook.svg": "/trekking/static/media/Facebook.b964b15e7e8b20376eda88bf2e008627.svg",
     "static/media/Chat.svg": "/trekking/static/media/Chat.4f5c09808c01be382398c21990cb5587.svg",
-    "main.86853523.css.map": "/trekking/static/css/main.86853523.css.map",
-    "main.67ac263b.js.map": "/trekking/static/js/main.67ac263b.js.map",
+    "main.79f508d0.css.map": "/trekking/static/css/main.79f508d0.css.map",
+    "main.64e666d5.js.map": "/trekking/static/js/main.64e666d5.js.map",
     "787.aab8bd84.chunk.js.map": "/trekking/static/js/787.aab8bd84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86853523.css",
-    "static/js/main.67ac263b.js"
+    "static/css/main.79f508d0.css",
+    "static/js/main.64e666d5.js"
   ]
 }
