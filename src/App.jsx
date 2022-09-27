@@ -8,9 +8,18 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Donate from './components/Donate'
 import { HashRouter } from "react-router-dom";
+import AOS from 'aos';
+import { useEffect } from "react";
+import "aos/dist/aos.css";
 // import { HashRouter } from "react-router-dom";
 
 function App() {
+  useEffect(() => {
+    AOS.init({
+      duration: 2000,
+    });
+  }
+  , []);
   return (
     <>
       {/* <Navbar /> */}

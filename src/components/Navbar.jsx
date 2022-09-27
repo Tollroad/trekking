@@ -29,8 +29,8 @@ import logo from "../images/Logo.svg";
 // }
 
 // export default Navbar;
-
-export default function NavBar() {
+export default function NavBar() 
+{
   const [navbar, setNavbar] = useState(false);
 
   return (

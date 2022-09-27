@@ -7,7 +7,7 @@ function Shop() {
   return (
     <>
       <div className="w-full h-fit bg-home">
-        <div className="md:w-[900px] w-fit h-full flex flex-col items-start text-left md:justify-center mx-auto ">
+        <div className="md:w-[900px] w-fit h-full flex flex-col items-start text-left md:justify-center mx-auto" data-aos="fade-up">
           <h1 className=" md:text-5xl md:font-bold text-white md:mb-4 font-bold text-4xl items-start mx-4 mt-4">Serving you</h1>
           <h1 className=" md:text-5xl text-2xl font-bold text-white mx-4">since 1989</h1>
           <p className="text-white font-medium md:mt-2 md:leading-6 md:text-md m-4">
@@ -23,7 +23,7 @@ function Shop() {
           </button>
         </div>
       </div>
-      <div className="w-full h-fit text-[#222]">
+      <div className="w-full h-fit text-[#222]" data-aos="fade-up">
         <div className="md:w-[900px] md:mx-auto md:h-fit md:flex justify-between md:flex-wrap ">
           <div className=" h-20 md:ml-8 mt-8 md:w-96">
             <p className="pt-2 md:text-sm md:font-normal font-bold text-4xl md:text-left text-center">WAYS TO SUPPORT</p>
@@ -43,7 +43,7 @@ function Shop() {
           </div>
         </div>
       </div>
-      <div className="w-full h-fit bg-home1 text-[#222]">
+      <div className="w-full h-fit bg-home1 text-[#222]" data-aos="fade-up">
         <div className="md:w-[900px] h-full flex  flex-col items-end text-left justify-center md:mx-auto">
           <h1 className=" md:text-4xl md:p-0 px-4 md:font-bold text-white md:mb-3">
             How we're keeping you{" "}
@@ -64,7 +64,7 @@ function Shop() {
           </button>
         </div>
       </div>
-      <div className="w-full h-fit text-[#222]">
+      <div className="w-full h-fit text-[#222]" data-aos="fade-up">
         <div className="md:w-[900px] mx-auto h-fit flex justify-between flex-wrap">
           <div className=" h-20 mt-8 w-96 text-center md:text-left">
             <h1>SHOP PRODUCTS</h1>
@@ -72,7 +72,7 @@ function Shop() {
           </div>
         </div>
       </div>
-      <div className="w-full h-fit">
+      <div className="w-full h-fit" data-aos="fade-up">
         <div className="md:w-[900px] mx-auto flex flex-col md:flex-row justify-evenly">
           <CardHome/>
           <CardHome/>
@@ -89,9 +89,9 @@ function Shop() {
       </div>
       <div className="w-full h-fit mt-6 text-white my-6">
         <div className="md:w-[900px] h-fit md:mx-auto md:flex md:flex-row flex flex-col items-center">
-          <div className=" bg-Homelast md:w-96 md:h-80 md:relative my-auto md:left-9 md:rounded-l-lg w-64 h-40 md-p-0 mb-4 rounded-md">
+          <div className=" bg-Homelast md:w-96 md:h-80 md:relative my-auto md:left-9 md:rounded-l-lg w-64 h-40 md-p-0 mb-4 rounded-md z-10" data-aos="fade-right">
           </div>
-          <div className=" h-96 w-full rounded-lg bg-[#222] flex flex-col justify-center items-center">
+          <div className=" h-96 w-full rounded-lg bg-[#222] flex flex-col justify-center items-center" data-aos="fade-left">
             <h1 className="text-4xl m-2 font-bold">Shop Local.</h1>
             <p className="w-72 text-xs font-medium py-2">We know that during COVID-19, a lot of folks around the city and state are feeling uneasy about the future - we’re not sure what the future holds either.</p>
             <p className="w-72 text-xs font-medium py-2">That said: we know that we love making sure you have the gear you need for your adventures, and we’re going to keep doing that - with our team - until the city tells us we can’t.</p>

@@ -6,7 +6,7 @@ function About() {
   return (
     <>
       <div className="w-full h-fit bg-aboutmain">
-        <div className="md:w-[900px] h-full flex  flex-col items-start text-left justify-center mx-auto">
+        <div className="md:w-[900px] h-full flex  flex-col items-start text-left justify-center mx-auto" data-aos="fade-up">
           <h1 className="md:text-5xl text-3xl md:px-0 px-4 font-bold text-white md:mb-4 mb-1">
             Your Adventure
           </h1>
@@ -24,7 +24,7 @@ function About() {
           </button>
         </div>
       </div>
-      <div className="w-full h-fit text-[#222]">
+      <div className="w-full h-fit text-[#222]" data-aos="fade-up">
         <div className="md:w-[900px] mx-auto h-fit flex justify-between flex-col items-center">
           <div className=" h-20 ml-8 mt-8 w-fit ">
             <p className="py-2 text-xs text-center">WHY ACME OUTDOORS?</p>
@@ -42,7 +42,7 @@ function About() {
         </div>
       </div>
       <div className="w-full h-fit my-6 text-[#222]">
-        <div className="md:w-[900px] h-fit flex md:flex-row flex-col mx-auto ">
+        <div className="md:w-[900px] h-fit flex md:flex-row flex-col mx-auto" data-aos="flip-left">
           <About_card/>
           <About_card/>
           <About_card/>
@@ -51,8 +51,8 @@ function About() {
       </div>
       <div className="w-full h-fit md:mt-24 text-white">
         <div className="md:w-[900px] h-fit mx-auto md:flex md:flex-row flex flex-col items-center">
-          <div className=" bg-Aboutlogo md:w-96 md:h-80 w-64 h-44 md:relative md:my-auto md:left-9 md:rounded-l-lg rounded-lg"></div>
-          <div className=" h-96 w-full rounded-lg md:bg-[#222] flex flex-col justify-center items-center md:py-0 md:text-white text-[#eb5757]">
+          <div className=" bg-Aboutlogo md:w-96 md:h-80 w-64 h-44 md:relative md:my-auto md:left-9 md:rounded-l-lg rounded-lg z-10" data-aos="fade-left"></div>
+          <div className=" h-96 w-full rounded-lg md:bg-[#222] flex flex-col justify-center items-center md:py-0 md:text-white text-[#eb5757]" data-aos="fade-right">
             <h1 className="text-4xl m-2 font-bold">Meet the Owners.</h1>
             <p className="w-72 text-xs font-medium py-2 md:text-left text-center">
               We know that during COVID-19, a lot of folks around the city and

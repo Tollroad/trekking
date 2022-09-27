@@ -14,7 +14,7 @@ function Home() {
           Shop Our Products
         </h1>
       </div>
-      <div className=" flex justify-center p-4">
+      <div className=" flex justify-center p-4" data-aos="fade-up">
         <div className=" bg-shop w-full h-[250px] md:w-[900px] rounded-md " />
         <div className="absolute top-[194px] md:right-[70px] right-[30px]">
           <button className=" text-black text-sm bg-white rounded-md px-4 py-1 ">
@@ -28,7 +28,7 @@ function Home() {
       </div>
       {/* <br /> */}
       {/* <br /> */}
-      <div className=" md:mx-auto md:flex-row flex flex-col justify-evenly md:w-[900px] md:items-start items-center w-full">
+      <div className=" md:mx-auto md:flex-row flex flex-col justify-evenly md:w-[900px] md:items-start items-center w-full" data-aos="flip-left">
          <div className="flex flex-col">
              <h1 className="pb-2 font-medium text-md">Shop By Category</h1>
              <button className="border-[1px] m-1 px-6 text-xs font-medium border-black  rounded-md py-1 hover:bg-black hover:text-white hover:duration-300 w-48 text-left">Gift Cards</button>

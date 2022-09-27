@@ -5,7 +5,7 @@ function Contact() {
   return (
     <>
       <div className="w-full h-fit bg-contact">
-        <div className="md:w-[900px] h-full flex flex-col  items-start text-left justify-center mx-auto">
+        <div className="md:w-[900px] h-full flex flex-col  items-start text-left justify-center mx-auto" data-aos="fade-up">
           <h1 className=" text-4xl md:mx-0 mx-4 font-bold text-[#eb5757] mb-4">
             Contact Acme Outdoors
           </h1>
@@ -37,7 +37,7 @@ function Contact() {
       </div>
       <div className="w-full h-fit text-[#222] my-4">
         <div className="md:w-[900px] mx-auto h-fit flex justify-between flex-wrap">
-          <div className=" h-20 ml-8 mt-8 w-96">
+          <div className=" h-20 ml-8 mt-8 w-96" data-aos="fade-right">
             <h1 className="text-2xl text-[#222] font-bold pb-4">Contact Us</h1>
             <p className="pb-4 text-sm">
               Acme Outdoors <br />
@@ -47,7 +47,7 @@ function Contact() {
             <h1 className="font-bold text-sm">General Inquiries:<span className="font-normal">(405) 555-5555</span></h1>
             <h1 className="font-bold text-sm">Customer Support:<span className="font-normal">(405) 555-5556</span></h1>
           </div>
-          <div className="w-96 h-fit text-xs md:m-8">
+          <div className="w-96 h-fit text-xs md:m-8" data-aos="fade-left">
            <h1 className="text-2xl font-bold md:pt-0 pt-24 md:px-0 px-8">Contact Form</h1>
            <p className="md:px-0 px-8">Send us a message and we'll get back to you as soon as we can!</p>
            <h1 className="md:p-1 px-8 py-1 font-semibold text-sm">Name</h1>
