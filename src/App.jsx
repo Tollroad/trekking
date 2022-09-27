@@ -7,13 +7,14 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Donate from './components/Donate'
 import { HashRouter } from "react-router-dom";
+// import { HashRouter } from "react-router-dom";
 
 function App() {
   return (
     <>
-      <Navbar />
-      {/* <HashRouter> */}
-
+      {/* <Navbar /> */}
+      <HashRouter>
+      <Navbar/>
       <Routes>
       <Route exact path="/" element={<Home />} />
       <Route exact path="/About" element={<About/>} />
@@ -21,7 +22,7 @@ function App() {
       <Route exact path="/Donate" element={<Donate/>} />
       <Route exact path="/Contact" element={<Contact/>} />
       </Routes>
-      {/* </HashRouter> */}
+      </HashRouter>
     </>
   );
 }
